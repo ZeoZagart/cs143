@@ -1,1 +1,1 @@
-# cs143
+# solutions to cs143
